@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Barkacs.Database">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAACAJACAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Barkacs.Form1">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAQCAAAIAAAAAFwIAAJAQAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Barkacs.KezdoLap">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAABAAEACAAAAiAMA6AAAAADANAQBAAAA=</HashCode>
+      <FileName>KezdoLap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Barkacs.Program">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Barkacs.Rendelesek">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBEAAEIAACAAAlEABACIAAACIMg6AAAQAnIFCUBAAFA=</HashCode>
+      <FileName>Rendelesek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Barkacs.Statisztikak">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAJACAAQBAQAQCIAABCAMx6AAAIAHAJRQBAAAA=</HashCode>
+      <FileName>Statisztikak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Barkacs.Termekek">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wFIIggE9GAhAlCICMDIAAhGKsg6AAABAXQNJQRAALA=</HashCode>
+      <FileName>Termekek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Barkacs.Vasarlok">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wFZEAwAtCgxClDICECIIARGIsi6UEAgQOANpQRAADA=</HashCode>
+      <FileName>Vasarlok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Barkacs.Vendeg">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAAlAAAADIAAACAMg6AAAAAHQMAQBAAAA=</HashCode>
+      <FileName>Vendeg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
